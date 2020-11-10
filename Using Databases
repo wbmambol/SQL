@@ -1,0 +1,13 @@
+CODE:
+  - CREATE DATABASE <NAME>;
+    - SHOW DATABASE;
+   -  DROP DATABASE;
+  
+  - USE <database name>;
+ 
+-- example:
+USE dog_walking_app;
+ 
+  - SELECT database();
+  
+  
