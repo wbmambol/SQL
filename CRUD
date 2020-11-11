@@ -1,0 +1,5 @@
+ Introduction to CRUD
+INSERT INTO cats(name, age) VALUES(‘Taco’, 14);
+
+DROP TABLE cats;
+create table cat
